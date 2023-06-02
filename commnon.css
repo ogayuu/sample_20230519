@@ -24,3 +24,38 @@ body {
     line-height: 1;
     background-color: #ffffff;
 }
+
+img{
+    max-width: 100%;
+}
+
+.header-inner{
+    max-width: 1200px;
+    height: 110px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 40px;
+    padding-right: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.toggle-menu-button{
+    display: none;
+}
+
+.header-logo{
+    display: block;
+    width: 170px;
+}
+
+.site-menu ul{
+    display: flex;
+}
+
+.site-menu li{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
