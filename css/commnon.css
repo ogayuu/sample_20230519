@@ -25,11 +25,11 @@ body {
     background-color: #ffffff;
 }
 
-img{
+img {
     max-width: 100%;
 }
 
-.header-inner{
+.header-inner {
     max-width: 1200px;
     height: 110px;
     margin-left: auto;
@@ -41,25 +41,25 @@ img{
     align-items: center;
 }
 
-.toggle-menu-button{
+.toggle-menu-button {
     display: none;
 }
 
-.header-logo{
+.header-logo {
     display: block;
     width: 170px;
 }
 
-.site-menu ul{
+.site-menu ul {
     display: flex;
 }
 
-.site-menu ul li{
+.site-menu ul li {
     margin-left: 20px;
     margin-right: 20px;
 }
 
-.site-menu ul li a{
+.site-menu ul li a {
     font-family: 'Cherry Bomb One', cursive;
 }
 
@@ -73,14 +73,14 @@ img{
     align-items: center;
 }
 
-.footer-logo{
+.footer-logo {
     display: block;
     width: 235px;
     margin-top: 90px;
 }
 
 .copyright {
-    font-size: 14pt;
-    margin-bottom: 30px;
+    font-size: 14px;
+    font-weight: bold;
     margin-top: 90px;
 }
