@@ -22,8 +22,8 @@
     margin-right: auto;
 }
 
-@important .members-list {
-    display: flex;
+.members-list {
+    display: flex-box;
     padding-top: 40px;
     padding-bottom: 10px;
     padding-left: 60px;
