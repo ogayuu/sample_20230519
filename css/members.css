@@ -22,7 +22,7 @@
     margin-right: auto;
 }
 
-.members-list {
+@important .members-list {
     display: flex;
     padding-top: 40px;
     padding-bottom: 10px;
